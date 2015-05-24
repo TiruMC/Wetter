@@ -14,5 +14,7 @@ namespace Weather
         public double Laenge { get; set; }
         public string Name { get; set; }
         public string Bundesland { get; set; }
+        
+        // test kommentar
     }
 }
