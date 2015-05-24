@@ -1,0 +1,492 @@
+Stationsindex; Höhe in m;Breite   ;Länge    ;Name                                    ;Bundesland                        
+           44;        44;    52.93;     8.24;Großenkneten                            ;Niedersachsen                     
+           71;       759;    48.22;     8.98;Albstadt-Badkap                         ;Baden-Württemberg                 
+           73;       340;    48.62;    13.05;Aldersbach-Kriestorf                    ;Bayern                            
+           78;        65;    52.49;     7.91;Alfhausen                               ;Niedersachsen                     
+           91;       300;    50.75;     9.35;Alsfeld-Eifa                            ;Hessen                            
+          125;       756;    47.83;    10.87;Altenstadt                              ;Bayern                            
+          131;       296;    51.09;    12.93;Geringswalde-Altgeringswalde            ;Sachsen                           
+          142;       510;    48.41;    11.31;Altomünster-Maisbrunn                   ;Bayern                            
+          150;       215;    49.73;     8.12;Alzey                                   ;Rheinland-Pfalz                   
+          151;       383;    49.47;    11.86;Amberg-Unterammersricht                 ;Bayern                            
+          154;       515;    48.02;    12.29;Amerang-Pfaffing                        ;Bayern                            
+          161;        75;    50.42;     7.42;Andernach                               ;Rheinland-Pfalz                   
+          164;        54;    53.03;    13.99;Angermünde                              ;Brandenburg                       
+          167;         9;    53.84;    13.69;Anklam                                  ;Mecklenburg-Vorpommern            
+          183;        42;    54.68;    13.43;Arkona                                  ;Mecklenburg-Vorpommern            
+          191;       220;    49.97;     9.91;Arnstein-Müdesheim                      ;Bayern                            
+          198;       164;    51.37;    11.29;Artern                                  ;Thüringen                         
+          217;       672;    47.88;    11.36;Attenkam                                ;Bayern                            
+          222;       387;    50.59;    12.71;Aue                                     ;Sachsen                           
+          232;       461;    48.43;    10.94;Augsburg                                ;Bayern                            
+          257;       240;    48.73;     8.25;Baden-Baden-Geroldsau                   ;Baden-Württemberg                 
+          259;       273;    47.81;     7.64;Müllheim                                ;Baden-Württemberg                 
+          282;       240;    49.87;    10.92;Bamberg                                 ;Bayern                            
+          294;       110;    52.32;     9.43;Barsinghausen-Hohenbostel               ;Niedersachsen                     
+          298;         3;    54.34;    12.71;Barth                                   ;Mecklenburg-Vorpommern            
+          303;        55;    52.06;    13.50;Baruth                                  ;Brandenburg                       
+          314;       232;    51.16;    14.50;Kubschütz, Kr. Bautzen                  ;Sachsen                           
+          320;       350;    49.97;    11.52;Heinersreuth-Vollhof                    ;Bayern                            
+          330;       450;    49.56;     8.97;Beerfelden                              ;Hessen                            
+          342;       103;    52.32;     8.17;Belm                                    ;Niedersachsen                     
+          368;        70;    52.82;     9.92;Bergen                                  ;Niedersachsen                     
+          377;       252;    49.11;     8.00;Bergzabern, Bad                         ;Rheinland-Pfalz                   
+          390;       610;    50.98;     8.37;Berleburg, Bad-Stünzel                  ;Nordrhein-Westfalen               
+          400;        60;    52.63;    13.50;Berlin-Buch                             ;Berlin                            
+          403;        51;    52.46;    13.31;Berlin-Dahlem (FU)                      ;Berlin                            
+          410;        33;    52.40;    13.73;Berlin-Kaniswall                        ;Berlin                            
+          420;        60;    52.55;    13.56;Berlin-Marzahn                          ;Berlin                            
+          427;        46;    52.38;    13.53;Berlin-Schönefeld                       ;Brandenburg                       
+          430;        36;    52.56;    13.31;Berlin-Tegel                            ;Berlin                            
+          433;        48;    52.47;    13.40;Berlin-Tempelhof                        ;Berlin                            
+          445;        84;    51.82;    11.71;Bernburg/Saale (Nord)                   ;Sachsen-Anhalt                    
+          460;       363;    49.26;     6.69;Berus                                   ;Saarland                          
+          535;       417;    50.04;     7.31;Blankenrath                             ;Rheinland-Pfalz                   
+          555;       101;    51.48;     7.27;Bochum                                  ;Nordrhein-Westfalen               
+          591;        45;    53.39;    10.69;Boizenburg                              ;Mecklenburg-Vorpommern            
+          596;        15;    54.00;    11.19;Boltenhagen                             ;Mecklenburg-Vorpommern            
+          603;       159;    50.73;     7.19;Bonn-Roleber                            ;Nordrhein-Westfalen               
+          617;        48;    51.87;     6.89;Borken in Westfalen                     ;Nordrhein-Westfalen               
+          656;       607;    51.72;    10.60;Braunlage                               ;Niedersachsen                     
+          662;        81;    52.29;    10.45;Braunschweig                            ;Niedersachsen                     
+          691;         4;    53.04;     8.80;Bremen                                  ;Bremen                            
+          701;         7;    53.53;     8.58;Bremerhaven                             ;Bremen                            
+          704;        10;    53.45;     9.14;Bremervörde                             ;Niedersachsen                     
+          755;       340;    49.52;     9.32;Buchen, Kr. Neckar-Odenwald             ;Baden-Württemberg                 
+          757;       445;    47.96;     8.00;Buchenbach                              ;Baden-Württemberg                 
+          766;       477;    50.17;     7.06;Büchel (Flugplatz)                      ;Rheinland-Pfalz                   
+          769;        68;    52.28;     9.09;Bückeburg                               ;Niedersachsen                     
+          817;       293;    51.03;     8.82;Burgwald-Bottendorf                     ;Hessen                            
+          840;       897;    50.43;    12.61;Carlsfeld                               ;Sachsen                           
+          850;        39;    52.60;    10.03;Celle                                   ;Niedersachsen                     
+          853;       418;    50.79;    12.87;Chemnitz                                ;Sachsen                           
+          856;       551;    47.88;    12.54;Chieming                                ;Bayern                            
+          867;       345;    50.31;    10.97;Lautertal-Oberlauter                    ;Bayern                            
+          880;        69;    51.78;    14.32;Cottbus                                 ;Brandenburg                       
+          891;         5;    53.87;     8.71;Cuxhaven                                ;Niedersachsen                     
+          896;       170;    51.08;    10.86;Dachwig                                 ;Thüringen                         
+          917;       162;    49.88;     8.68;Darmstadt                               ;Hessen                            
+          953;       481;    49.76;     7.05;Deuselbach                              ;Rheinland-Pfalz                   
+          963;        39;    52.59;     8.34;Diepholz                                ;Niedersachsen                     
+          979;       314;    50.73;     8.26;Dillenburg                              ;Hessen                            
+          983;       419;    48.56;    10.56;Dillingen/Donau-Fristingen              ;Bayern                            
+          991;       365;    50.92;    13.71;Dippoldiswalde-Reinberg                 ;Sachsen                           
+         1001;        97;    51.65;    13.57;Doberlug-Kirchhain                      ;Brandenburg                       
+         1048;       227;    51.13;    13.75;Dresden-Klotzsche                       ;Sachsen                           
+         1050;       114;    51.02;    13.85;Dresden-Hosterwitz                      ;Sachsen                           
+         1051;       119;    51.02;    13.77;Dresden-Strehlen                        ;Sachsen                           
+         1052;        80;    52.22;    12.16;Drewitz bei Burg                        ;Sachsen-Anhalt                    
+         1072;       107;    49.47;     8.19;Dürkheim, Bad                           ;Rheinland-Pfalz                   
+         1078;        37;    51.30;     6.77;Düsseldorf                              ;Nordrhein-Westfalen               
+         1103;       592;    48.10;    11.99;Ebersberg-Halbing                       ;Bayern                            
+         1107;       346;    49.85;    10.50;Ebrach                                  ;Bayern                            
+         1161;       384;    48.88;    11.24;Eichstätt-Landershofen                  ;Bayern                            
+         1197;       460;    48.99;    10.13;Ellwangen-Rindelbach                    ;Baden-Württemberg                 
+         1200;         3;    54.07;     9.01;Elpersbüttel                            ;Schleswig-Holstein                
+         1207;       560;    50.27;    12.27;Elster, Bad-Sohl                        ;Sachsen                           
+         1214;       440;    48.20;     8.11;Elzach-Fisnacht                         ;Baden-Württemberg                 
+         1224;       201;    48.14;     7.84;Emmendingen-Mundingen                   ;Baden-Württemberg                 
+         1255;       220;    49.17;     8.85;Eppingen-Elsenz                         ;Baden-Württemberg                 
+         1262;       446;    48.35;    11.81;München-Flughafen                       ;Bayern                            
+         1266;        18;    54.30;     9.32;Erfde                                   ;Schleswig-Holstein                
+         1270;       316;    50.98;    10.96;Erfurt-Weimar                           ;Thüringen                         
+         1279;       268;    49.65;    11.01;Möhrendorf-Kleinseebach                 ;Bayern                            
+         1297;       170;    51.18;    10.06;Eschwege                                ;Hessen                            
+         1300;       351;    51.25;     8.16;Eslohe                                  ;Nordrhein-Westfalen               
+         1303;       150;    51.40;     6.97;Essen-Bredeney                          ;Nordrhein-Westfalen               
+         1327;       146;    50.71;     6.79;Weilerswist-Lommersum                   ;Nordrhein-Westfalen               
+         1332;       472;    48.48;    12.72;Falkenberg,Kr.Rottal-Inn                ;Bayern                            
+         1339;        73;    52.92;    10.19;Faßberg                                 ;Niedersachsen                     
+         1357;       657;    49.98;    11.84;Fichtelberg/Oberfranken-Hüttstadl       ;Bayern                            
+         1411;       745;    50.53;    10.05;Birx/Rhön                               ;Thüringen                         
+         1420;       100;    50.03;     8.52;Frankfurt/Main                          ;Hessen                            
+         1424;       124;    50.13;     8.67;Frankfurt/Main-Westend                  ;Hessen                            
+         1443;       236;    48.02;     7.83;Freiburg                                ;Baden-Württemberg                 
+         1451;         2;    53.83;     9.25;Freiburg/Elbe                           ;Niedersachsen                     
+         1468;       797;    48.45;     8.41;Freudenstadt                            ;Baden-Württemberg                 
+         1473;       436;    49.18;    11.37;Freystadt-Oberndorf                     ;Bayern                            
+         1503;         6;    53.06;     7.90;Friesoythe-Altenoythe                   ;Niedersachsen                     
+         1504;       172;    51.12;     9.28;Fritzlar (Flugplatz)                    ;Hessen                            
+         1544;        47;    52.51;    11.39;Gardelegen                              ;Sachsen-Anhalt                    
+         1550;       719;    47.48;    11.06;Garmisch-Partenkirchen                  ;Bayern                            
+         1572;        90;    50.96;     6.04;Geilenkirchen (Flugplatz)               ;Nordrhein-Westfalen               
+         1580;       110;    49.99;     7.95;Geisenheim                              ;Hessen                            
+         1584;       672;    47.92;     8.65;Geisingen                               ;Baden-Württemberg                 
+         1587;       536;    48.95;    11.43;Gelbelsee                               ;Bayern                            
+         1590;        37;    51.49;     6.25;Geldern-Walbeck                         ;Nordrhein-Westfalen               
+         1602;       176;    48.43;     7.99;Ohlsbach                                ;Baden-Württemberg                 
+         1605;        35;    52.39;    12.16;Genthin                                 ;Sachsen-Anhalt                    
+         1612;       311;    50.88;    12.13;Gera-Leumnitz                           ;Thüringen                         
+         1639;       203;    50.60;     8.64;Gießen/Wettenberg                       ;Hessen                            
+         1645;       340;    50.97;     9.05;Gilserberg-Moischeid                    ;Hessen                            
+         1666;        27;    54.83;     9.51;Glücksburg-Meierwik                     ;Schleswig-Holstein                
+         1684;       238;    51.16;    14.95;Görlitz                                 ;Sachsen                           
+         1691;       167;    51.50;     9.95;Göttingen                               ;Niedersachsen                     
+         1694;        58;    53.61;    12.10;Goldberg                                ;Mecklenburg-Vorpommern            
+         1721;       506;    49.66;    11.22;Gräfenberg-Kasberg                      ;Bayern                            
+         1735;       628;    48.79;    13.63;Grainet-Rehberg                         ;Bayern                            
+         1736;        27;    53.57;    10.68;Grambek                                 ;Schleswig-Holstein                
+         1757;         2;    54.10;    13.41;Greifswald                              ;Mecklenburg-Vorpommern            
+         1759;        12;    54.24;    13.91;Greifswalder Oie                        ;Mecklenburg-Vorpommern            
+         1766;        48;    52.13;     7.70;Münster/Osnabrück                       ;Nordrhein-Westfalen               
+         1803;        34;    54.07;    12.32;Groß Lüsewitz                           ;Mecklenburg-Vorpommern            
+         1863;       258;    50.27;     9.19;Gründau-Breitenborn                     ;Hessen                            
+         1869;        56;    53.32;    13.93;Grünow                                  ;Brandenburg                       
+         1964;       328;    49.94;     6.38;Olsdorf                                 ;Rheinland-Pfalz                   
+         1975;        11;    53.63;     9.99;Hamburg-Fuhlsbüttel                     ;Hamburg                           
+         1981;         3;    53.48;     9.90;Hamburg-Neuwiedenthal                   ;Hamburg                           
+         2014;        55;    52.46;     9.68;Hannover                                ;Niedersachsen                     
+         2023;       502;    48.79;    10.71;Harburg                                 ;Bayern                            
+         2039;       201;    51.90;    10.57;Harzburg, Bad                           ;Niedersachsen                     
+         2044;       404;    51.65;    11.14;Harzgerode                              ;Sachsen-Anhalt                    
+         2074;       522;    48.38;     8.98;Hechingen                               ;Baden-Württemberg                 
+         2110;        57;    51.04;     6.10;Heinsberg-Schleiden                     ;Nordrhein-Westfalen               
+         2115;         4;    54.17;     7.89;Helgoland                               ;Schleswig-Holstein                
+         2171;       272;    50.85;     9.74;Hersfeld, Bad                           ;Hessen                            
+         2174;       238;    51.63;    10.37;Herzberg                                ;Niedersachsen                     
+         2201;         1;    54.58;    13.10;Hiddensee-Vitte                         ;Mecklenburg-Vorpommern            
+         2211;       295;    50.74;     7.65;Hilgenroth                              ;Rheinland-Pfalz                   
+         2252;       270;    50.90;    14.75;Bertsdorf-Hörnitz                       ;Sachsen                           
+         2261;       565;    50.31;    11.88;Hof                                     ;Bayern                            
+         2290;       977;    47.80;    11.01;Hohenpeißenberg                         ;Bayern                            
+         2303;        10;    54.31;     9.54;Hohn                                    ;Schleswig-Holstein                
+         2306;         8;    54.32;    10.67;Hohwacht                                ;Schleswig-Holstein                
+         2315;        81;    51.77;    13.17;Holzdorf (Flugplatz)                    ;Brandenburg                       
+         2319;       685;    47.88;    11.70;Holzkirchen                             ;Bayern                            
+         2323;       110;    51.85;     9.50;Bevern, Kr. Holzminden                  ;Niedersachsen                     
+         2362;       328;    50.57;     7.48;Hümmerich                               ;Rheinland-Pfalz                   
+         2385;       376;    49.69;     7.33;Idar-Oberstein                          ;Rheinland-Pfalz                   
+         2410;       364;    48.71;    11.54;Ingolstadt (Flugplatz)                  ;Bayern                            
+         2429;        21;    53.99;     9.57;Itzehoe                                 ;Schleswig-Holstein                
+         2437;        21;    54.46;     9.52;Schleswig-Jagel                         ;Schleswig-Holstein                
+         2444;       155;    50.93;    11.58;Jena (Sternwarte)                       ;Thüringen                         
+         2480;       107;    50.06;     8.99;Kahl/Main                               ;Bayern                            
+         2483;       839;    51.18;     8.49;Kahler Asten                            ;Nordrhein-Westfalen               
+         2485;       489;    48.92;     9.69;Kaisersbach-Cronhütte                   ;Baden-Württemberg                 
+         2486;       285;    49.42;     7.74;Kaiserslautern                          ;Rheinland-Pfalz                   
+         2497;       505;    50.50;     6.53;Kall-Sistig                             ;Nordrhein-Westfalen               
+         2542;       716;    47.87;    10.60;Kaufbeuren                              ;Bayern                            
+         2559;       705;    47.72;    10.33;Kempten                                 ;Bayern                            
+         2564;        27;    54.38;    10.14;Kiel-Holtenau                           ;Schleswig-Holstein                
+         2575;       426;    49.18;     9.98;Kirchberg/Jagst-Herboldshausen          ;Baden-Württemberg                 
+         2578;        12;    54.00;    11.43;Kirchdorf/Poel                          ;Mecklenburg-Vorpommern            
+         2597;       282;    50.22;    10.08;Kissingen, Bad                          ;Bayern                            
+         2600;       188;    49.74;    10.18;Kitzingen                               ;Bayern                            
+         2601;       826;    50.22;     8.45;Kleiner Feldberg/Taunus                 ;Hessen                            
+         2618;       732;    50.85;    10.48;Kleiner Inselsberg                      ;Thüringen                         
+         2627;       128;    51.56;    13.89;Klettwitz                               ;Brandenburg                       
+         2629;        46;    51.76;     6.10;Kleve                                   ;Nordrhein-Westfalen               
+         2638;       973;    48.11;     8.75;Klippeneck                              ;Baden-Württemberg                 
+         2641;        85;    51.52;    12.91;Klitzschen bei Torgau                   ;Sachsen                           
+         2667;        92;    50.86;     7.16;Köln-Bonn                               ;Nordrhein-Westfalen               
+         2680;       288;    50.28;    10.45;Königshofen, Bad                        ;Bayern                            
+         2700;       417;    48.83;    11.49;Kösching                                ;Bayern                            
+         2704;        76;    51.75;    12.01;Köthen (Anhalt)                         ;Sachsen-Anhalt                    
+         2708;       740;    47.67;    11.08;Kohlgrub, Bad (Rosshof)                 ;Bayern                            
+         2712;       443;    47.68;     9.19;Konstanz                                ;Baden-Württemberg                 
+         2750;       312;    50.25;    11.32;Kronach                                 ;Bayern                            
+         2773;       417;    49.43;    11.90;Kümmersbruck                            ;Bayern                            
+         2794;        40;    52.94;    12.41;Kyritz                                  ;Brandenburg                       
+         2796;        40;    53.92;    12.28;Laage (Flugplatz)                       ;Mecklenburg-Vorpommern            
+         2812;       155;    48.36;     7.83;Lahr                                    ;Baden-Württemberg                 
+         2814;       685;    48.51;     9.76;Merklingen                              ;Baden-Württemberg                 
+         2829;       621;    48.08;    10.91;Landsberg (Flugplatz)                   ;Bayern                            
+         2856;        91;    51.92;    13.09;Langenlipsdorf                          ;Brandenburg                       
+         2886;       539;    48.22;     9.91;Laupheim                                ;Baden-Württemberg                 
+         2905;       550;    48.18;    10.85;Lechfeld                                ;Bayern                            
+         2907;         7;    54.79;     8.95;Leck                                    ;Schleswig-Holstein                
+         2925;       356;    51.39;    10.31;Leinefelde                              ;Thüringen                         
+         2928;       138;    51.32;    12.45;Leipzig-Holzhausen                      ;Sachsen                           
+         2932;       131;    51.43;    12.24;Leipzig/Halle                           ;Sachsen                           
+         2947;       286;    51.13;     8.04;Lennestadt-Theten                       ;Nordrhein-Westfalen               
+         2951;        20;    53.10;    11.49;Lenzen/Elbe                             ;Brandenburg                       
+         2953;       852;    47.86;     8.23;Lenzkirch-Ruhbühl                       ;Baden-Württemberg                 
+         2968;        43;    50.99;     6.98;Köln-Stammheim                          ;Nordrhein-Westfalen               
+         2985;       321;    50.94;    14.21;Lichtenhain-Mittelndorf                 ;Sachsen                           
+         3015;        98;    52.21;    14.12;Lindenberg                              ;Brandenburg                       
+         3023;        22;    52.52;     7.31;Lingen                                  ;Niedersachsen                     
+         3028;       157;    51.79;     8.84;Lippspringe, Bad                        ;Nordrhein-Westfalen               
+         3031;        92;    51.63;     8.39;Lippstadt-Bökenförde                    ;Nordrhein-Westfalen               
+         3032;        26;    55.01;     8.41;List auf Sylt                           ;Schleswig-Holstein                
+         3034;       500;    50.45;    11.64;Lobenstein, Bad                         ;Thüringen                         
+         3042;       230;    50.56;     8.24;Löhnberg-Obershausen                    ;Hessen                            
+         3044;        22;    52.72;     7.75;Löningen                                ;Niedersachsen                     
+         3083;        57;    51.93;    13.88;Lübben-Blumenfelde                      ;Brandenburg                       
+         3086;        16;    53.80;    10.70;Lübeck-Blankensee                       ;Schleswig-Holstein                
+         3093;        17;    52.97;    11.14;Lüchow                                  ;Niedersachsen                     
+         3098;       387;    51.25;     7.64;Lüdenscheid                             ;Nordrhein-Westfalen               
+         3126;        76;    52.10;    11.58;Magdeburg                               ;Sachsen-Anhalt                    
+         3137;       195;    49.97;     8.21;Mainz-Lerchenberg (ZDF)                 ;Rheinland-Pfalz                   
+         3147;       418;    48.77;    12.22;Mallersdorf-Pfaffenberg/Niederbayern    ;Bayern                            
+         3155;       413;    50.10;     6.80;Manderscheid-Sonnenhof                  ;Rheinland-Pfalz                   
+         3158;        12;    52.55;    14.55;Manschnow                               ;Brandenburg                       
+         3164;       182;    50.85;     8.78;Cölbe, Kr. Marburg-Biedenkopf           ;Hessen                            
+         3166;       639;    50.65;    13.15;Marienberg                              ;Sachsen                           
+         3167;       547;    50.66;     7.96;Marienberg, Bad                         ;Rheinland-Pfalz                   
+         3196;        81;    53.32;    11.93;Marnitz                                 ;Mecklenburg-Vorpommern            
+         3204;       427;    50.73;    10.88;Martinroda                              ;Thüringen                         
+         3226;       107;    51.73;    11.51;Aschersleben-Mehringen                  ;Sachsen-Anhalt                    
+         3231;       450;    50.56;    10.38;Meiningen                               ;Thüringen                         
+         3234;       157;    51.13;    13.43;Garsebach bei Meißen                    ;Sachsen                           
+         3244;       615;    47.98;    10.14;Memmingen                               ;Bayern                            
+         3257;       250;    49.48;     9.76;Mergentheim, Bad-Neunkirchen            ;Baden-Württemberg                 
+         3268;       920;    48.19;     8.99;Meßstetten                              ;Baden-Württemberg                 
+         3271;       313;    48.86;    12.92;Metten                                  ;Bayern                            
+         3278;       355;    48.54;     9.27;Metzingen                               ;Baden-Württemberg                 
+         3284;       240;    49.67;     9.01;Michelstadt                             ;Hessen                            
+         3287;       453;    49.72;     9.10;Michelstadt-Vielbrunn                   ;Hessen                            
+         3289;       355;    50.73;    11.78;Schmieritz-Weltwitz                     ;Thüringen                         
+         3307;       981;    47.48;    11.27;Mittenwald-Buckelwiesen                 ;Bayern                            
+         3319;       239;    49.76;     9.25;Röllbach                                ;Bayern                            
+         3340;       265;    50.44;     7.81;Montabaur                               ;Rheinland-Pfalz                   
+         3348;       240;    51.72;     9.84;Moringen-Lutterbeck                     ;Niedersachsen                     
+         3362;       244;    48.97;     8.87;Mühlacker                               ;Baden-Württemberg                 
+         3366;       406;    48.28;    12.50;Mühldorf                                ;Bayern                            
+         3376;        63;    52.52;    14.12;Müncheberg                              ;Brandenburg                       
+         3379;       515;    48.16;    11.54;München-Stadt                           ;Bayern                            
+         3402;       750;    48.39;     9.48;Münsingen-Apfelstetten                  ;Baden-Württemberg                 
+         3426;       125;    51.57;    14.70;Muskau, Bad                             ;Sachsen                           
+         3442;       149;    50.36;     8.75;Nauheim, Bad                            ;Hessen                            
+         3484;       380;    48.71;    11.21;Neuburg/Donau (Flugplatz)               ;Bayern                            
+         3485;       486;    48.31;    10.38;Neuburg/Kammel-Langenhaslach            ;Bayern                            
+         3490;       111;    50.54;     7.09;Neuenahr, Bad-Ahrweiler                 ;Rheinland-Pfalz                   
+         3509;        77;    53.10;    13.04;Menz                                    ;Brandenburg                       
+         3513;       845;    50.50;    11.13;Neuhaus am Rennweg                      ;Thüringen                         
+         3527;       500;    50.89;     9.41;Neukirchen-Hauptschwenda                ;Hessen                            
+         3540;       195;    50.85;     7.37;Neunkirchen-Seelscheid-Krawinkel        ;Nordrhein-Westfalen               
+         3545;       236;    49.34;     7.23;Neunkirchen-Wellesweiler                ;Saarland                          
+         3552;        38;    52.90;    12.81;Neuruppin                               ;Brandenburg                       
+         3571;       452;    49.82;    11.86;Neustadt am Kulm-Filchendorf            ;Bayern                            
+         3591;       350;    50.67;     6.42;Nideggen-Schmidt                        ;Nordrhein-Westfalen               
+         3603;       473;    49.39;     9.97;Niederstetten                           ;Baden-Württemberg                 
+         3612;        25;    52.67;     9.22;Nienburg                                ;Niedersachsen                     
+         3621;       435;    48.83;    10.51;Reimlingen                              ;Bayern                            
+         3623;       111;    50.83;     6.66;Nörvenich (Flugplatz)                   ;Nordrhein-Westfalen               
+         3631;        11;    53.71;     7.15;Norderney                               ;Niedersachsen                     
+         3639;        25;    53.76;     8.66;Nordholz (Flugplatz)                    ;Niedersachsen                     
+         3660;       485;    50.36;     6.87;Nürburg-Barweiler                       ;Rheinland-Pfalz                   
+         3667;       368;    49.43;    11.25;Nürnberg-Netzstall                      ;Bayern                            
+         3668;       314;    49.50;    11.05;Nürnberg                                ;Bayern                            
+         3679;       518;    47.62;    12.17;Kiefersfelden-Gach                      ;Bayern                            
+         3730;       806;    47.40;    10.28;Oberstdorf                              ;Bayern                            
+         3734;       230;    49.13;     9.35;Obersulm-Willsbach                      ;Baden-Württemberg                 
+         3739;       596;    49.45;    12.44;Oberviechtach                           ;Bayern                            
+         3761;       276;    49.21;     9.52;Öhringen                                ;Baden-Württemberg                 
+         3811;       150;    51.30;    13.09;Oschatz                                 ;Sachsen                           
+         3821;       246;    51.09;    11.93;Osterfeld                               ;Sachsen-Anhalt                    
+         3836;       312;    50.45;    10.22;Ostheim v.d. Rhön                       ;Bayern                            
+         3857;       885;    47.64;    10.39;Oy-Mittelberg-Petersthal                ;Bayern                            
+         3875;       549;    49.15;    11.69;Parsberg/Oberpfalz-Eglwang              ;Bayern                            
+         3897;         1;    54.09;    10.88;Pelzerhaken                             ;Schleswig-Holstein                
+         3904;       152;    49.54;     6.38;Perl-Nennig                             ;Saarland                          
+         3925;       333;    48.93;     8.70;Pforzheim-Ispringen                     ;Baden-Württemberg                 
+         3927;       630;    47.93;     9.29;Pfullendorf                             ;Baden-Württemberg                 
+         3939;       385;    49.19;     7.59;Pirmasens                               ;Rheinland-Pfalz                   
+         3946;       386;    50.48;    12.13;Plauen                                  ;Sachsen                           
+         3975;       522;    49.48;    11.54;Pommelsbrunn-Mittelburg                 ;Bayern                            
+         3987;        81;    52.38;    13.06;Potsdam                                 ;Brandenburg                       
+         4024;        40;    54.36;    13.48;Putbus                                  ;Mecklenburg-Vorpommern            
+         4032;       142;    51.80;    11.13;Quedlinburg                             ;Sachsen-Anhalt                    
+         4036;       204;    51.39;    11.54;Querfurt-Mühle Lodersleben              ;Sachsen-Anhalt                    
+         4039;        13;    53.73;     9.88;Quickborn                               ;Schleswig-Holstein                
+         4063;        41;    52.45;     8.59;Rahden-Kleinendorf                      ;Nordrhein-Westfalen               
+         4094;       440;    47.81;     9.62;Weingarten, Kr. Ravensburg              ;Baden-Württemberg                 
+         4104;       365;    49.04;    12.10;Regensburg                              ;Bayern                            
+         4127;       350;    50.99;     7.70;Reichshof-Eckenhagen                    ;Nordrhein-Westfalen               
+         4154;       345;    51.18;     7.25;Remscheid-Lennep                        ;Nordrhein-Westfalen               
+         4160;       478;    48.74;     8.92;Renningen-Ihinger Hof                   ;Baden-Württemberg                 
+         4169;       131;    48.67;     7.99;Rheinau-Memprechtshofen                 ;Baden-Württemberg                 
+         4174;        40;    52.29;     7.39;Rheine-Bentlage                         ;Nordrhein-Westfalen               
+         4177;       116;    48.97;     8.33;Rheinstetten                            ;Baden-Württemberg                 
+         4189;       533;    48.15;     9.46;Altheim, Kreis Biberach                 ;Baden-Württemberg                 
+         4261;       444;    47.88;    12.13;Rosenheim                               ;Bayern                            
+         4271;         4;    54.18;    12.08;Rostock-Warnemünde                      ;Mecklenburg-Vorpommern            
+         4275;        32;    53.13;     9.34;Rotenburg (Wümme)                       ;Niedersachsen                     
+         4280;       385;    49.22;    11.10;Roth                                    ;Bayern                            
+         4287;       415;    49.39;    10.17;Rothenburg ob der Tauber                ;Bayern                            
+         4300;       588;    48.18;     8.64;Rottweil                                ;Baden-Württemberg                 
+         4301;       102;    49.85;     7.87;Kreuznach, Bad                          ;Rheinland-Pfalz                   
+         4323;       461;    49.65;     7.88;Ruppertsecken                           ;Rheinland-Pfalz                   
+         4336;       320;    49.21;     7.11;Saarbrücken-Ensheim                     ;Saarland                          
+         4349;       248;    48.96;     9.07;Sachsenheim                             ;Baden-Württemberg                 
+         4354;       456;    48.78;    13.31;Saldenburg-Entschenreuth                ;Bayern                            
+         4371;       135;    52.10;     8.75;Salzuflen, Bad                          ;Nordrhein-Westfalen               
+         4377;       510;    50.35;    10.00;Sandberg                                ;Bayern                            
+         4393;         5;    54.33;     8.60;Sankt Peter-Ording                      ;Schleswig-Holstein                
+         4411;       155;    49.92;     8.97;Schaafheim-Schlierbach                  ;Hessen                            
+         4445;       609;    51.77;    10.65;Wernigerode-Schierke                    ;Sachsen-Anhalt                    
+         4464;       501;    50.57;    11.80;Schleiz                                 ;Thüringen                         
+         4466;        43;    54.53;     9.55;Schleswig                               ;Schleswig-Holstein                
+         4480;       230;    50.34;     9.55;Schlüchtern-Herolz                      ;Hessen                            
+         4485;       296;    50.73;    10.45;Schmalkalden, Kurort                    ;Thüringen                         
+         4501;       937;    50.65;    10.77;Schmücke                                ;Thüringen                         
+         4508;       649;    50.30;     6.42;Schneifelforsthaus                      ;Rheinland-Pfalz                   
+         4548;       609;    50.21;    12.14;Selb/Oberfranken-Lauterbach             ;Bayern                            
+         4559;       399;    49.17;    12.62;Schorndorf-Knöbling                     ;Bayern                            
+         4560;       265;    50.49;     9.12;Schotten                                ;Hessen                            
+         4592;       356;    49.33;    12.09;Schwandorf                              ;Bayern                            
+         4605;       277;    50.64;    11.19;Schwarzburg                             ;Thüringen                         
+         4625;        59;    53.64;    11.39;Schwerin                                ;Mecklenburg-Vorpommern            
+         4642;        21;    52.89;    11.73;Seehausen                               ;Sachsen-Anhalt                    
+         4651;       186;    51.90;    10.19;Seesen                                  ;Niedersachsen                     
+         4692;       229;    50.85;     8.00;Siegen (Kläranlage)                     ;Nordrhein-Westfalen               
+         4703;       580;    48.07;     9.19;Sigmaringen-Laiz                        ;Baden-Württemberg                 
+         4704;       507;    47.58;     9.74;Sigmarszell-Zeisertsweiler              ;Bayern                            
+         4706;       360;    48.27;    13.03;Simbach/Inn                             ;Bayern                            
+         4709;       445;    50.00;     7.60;Simmern-Wahlbach                        ;Rheinland-Pfalz                   
+         4745;        76;    52.96;     9.79;Soltau                                  ;Niedersachsen                     
+         4763;       265;    51.06;     9.93;Sontra                                  ;Hessen                            
+         4841;         1;    53.70;     8.87;Steinau, Kr. Cuxhaven                   ;Niedersachsen                     
+         4857;         1;    53.55;     9.61;Mittelnkirchen-Hohenfelde               ;Niedersachsen                     
+         4887;       734;    48.67;     9.86;Stötten                                 ;Baden-Württemberg                 
+         4896;        40;    54.67;     9.80;Wagersrott                              ;Schleswig-Holstein                
+         4911;       350;    48.83;    12.56;Straubing                               ;Bayern                            
+         4928;       314;    48.83;     9.20;Stuttgart (Schnarrenberg)               ;Baden-Württemberg                 
+         4931;       371;    48.69;     9.22;Stuttgart-Echterdingen                  ;Baden-Württemberg                 
+         4978;       395;    50.64;    10.02;Tann/Rhön                               ;Hessen                            
+         4997;       193;    50.98;    12.34;Starkenberg-Tegkwitz                    ;Thüringen                         
+         5009;        38;    53.76;    12.56;Teterow                                 ;Mecklenburg-Vorpommern            
+         5014;         7;    53.28;     8.99;Worpswede-Hüttenbusch                   ;Niedersachsen                     
+         5017;       633;    50.40;    11.39;Teuschnitz                              ;Bayern                            
+         5029;       386;    49.47;     7.04;Tholey                                  ;Saarland                          
+         5046;       500;    49.86;    12.35;Tirschenreuth-Lodermühl                 ;Bayern                            
+         5064;        37;    51.29;     6.44;Tönisvorst                              ;Nordrhein-Westfalen               
+         5097;        10;    54.07;    12.77;Tribsees                                ;Mecklenburg-Vorpommern            
+         5099;       132;    49.73;     6.61;Trier-Zewen                             ;Rheinland-Pfalz                   
+         5100;       265;    49.75;     6.66;Trier-Petrisberg                        ;Rheinland-Pfalz                   
+         5109;        69;    53.60;    13.30;Trollenhagen                            ;Mecklenburg-Vorpommern            
+         5111;       559;    48.03;    12.54;Trostberg                               ;Bayern                            
+         5133;       295;    51.33;     8.91;Twistetal-Mühlhausen                    ;Hessen                            
+         5142;         1;    53.74;    14.07;Ueckermünde                             ;Mecklenburg-Vorpommern            
+         5146;        50;    52.94;    10.53;Uelzen                                  ;Niedersachsen                     
+         5149;       308;    49.57;    10.19;Gollhofen                               ;Bayern                            
+         5158;       162;    52.16;    11.18;Ummendorf                               ;Sachsen-Anhalt                    
+         5229;       720;    48.05;     8.46;Villingen-Schwenningen                  ;Baden-Württemberg                 
+         5275;       105;    49.25;     8.54;Waghäusel-Kirrlach                      ;Baden-Württemberg                 
+         5279;       176;    51.62;     9.58;Wahlsburg-Lippoldsberg                  ;Hessen                            
+         5280;        35;    53.92;    10.23;Wittenborn                              ;Schleswig-Holstein                
+         5300;       380;    50.26;     8.36;Waldems-Reinborn                        ;Hessen                            
+         5335;       348;    50.90;    10.55;Waltershausen                           ;Thüringen                         
+         5347;       236;    51.50;     9.11;Warburg                                 ;Nordrhein-Westfalen               
+         5349;        73;    53.52;    12.67;Waren (Müritz)                          ;Mecklenburg-Vorpommern            
+         5371;       921;    50.50;     9.94;Wasserkuppe                             ;Hessen                            
+         5397;       440;    49.67;    12.18;Weiden                                  ;Bayern                            
+         5404;       477;    48.40;    11.69;Weihenstephan-Dürnast                   ;Bayern                            
+         5424;       325;    51.02;    11.35;Weimar-Schöndorf                        ;Thüringen                         
+         5426;       553;    49.38;     8.12;Weinbiet                                ;Rheinland-Pfalz                   
+         5433;       380;    49.55;     6.81;Weiskirchen/Saar                        ;Saarland                          
+         5440;       439;    49.01;    10.93;Weißenburg-Emetzheim                    ;Bayern                            
+         5480;        85;    51.58;     7.89;Werl                                    ;Nordrhein-Westfalen               
+         5490;       234;    51.85;    10.77;Wernigerode                             ;Sachsen-Anhalt                    
+         5516;         3;    54.53;    11.06;Fehmarn                                 ;Schleswig-Holstein                
+         5538;       550;    47.88;    11.16;Wielenbach (Demollstr.)                 ;Bayern                            
+         5541;       263;    50.13;     8.32;Wiesbaden-Auringen                      ;Hessen                            
+         5546;       187;    52.12;    12.46;Wiesenburg                              ;Brandenburg                       
+         5562;       570;    48.65;     8.68;Neubulach-Oberhaugstett                 ;Baden-Württemberg                 
+         5629;       105;    51.89;    12.64;Wittenberg                              ;Sachsen-Anhalt                    
+         5640;         8;    53.55;     7.67;Wittmundhafen                           ;Niedersachsen                     
+         5643;        66;    53.19;    12.50;Wittstock-Rote Mühle                    ;Brandenburg                       
+         5664;       291;    48.30;     8.24;Wolfach                                 ;Baden-Württemberg                 
+         5676;        82;    52.40;    10.69;Wolfsburg (Südwest)                     ;Niedersachsen                     
+         5692;        88;    49.61;     8.37;Worms                                   ;Rheinland-Pfalz                   
+         5705;       268;    49.77;     9.96;Würzburg                                ;Bayern                            
+         5715;        57;    52.46;     9.43;Wunstorf                                ;Niedersachsen                     
+         5717;       130;    51.23;     7.11;Wuppertal-Buchenhofen                   ;Nordrhein-Westfalen               
+         5731;       398;    47.68;     8.38;Wutöschingen-Ofteringen                 ;Baden-Württemberg                 
+         5745;        51;    52.97;    13.33;Zehdenick                               ;Brandenburg                       
+         5750;       170;    51.03;    12.15;Zeitz                                   ;Sachsen-Anhalt                    
+         5779;       877;    50.73;    13.75;Zinnwald-Georgenfeld                    ;Sachsen                           
+         5797;       353;    50.69;    12.43;Lichtentanne                            ;Sachsen                           
+         5800;       615;    49.03;    13.24;Zwiesel                                 ;Bayern                            
+         5822;        40;    52.86;     8.70;Bassum                                  ;Niedersachsen                     
+         5825;        40;    52.62;    12.79;Berge                                   ;Brandenburg                       
+         5839;         0;    53.39;     7.23;Emden                                   ;Niedersachsen                     
+         5856;       476;    48.55;    13.35;Fürstenzell                             ;Bayern                            
+         5871;       497;    49.95;     7.26;Hahn                                    ;Rheinland-Pfalz                   
+         5906;        96;    49.51;     8.55;Mannheim                                ;Baden-Württemberg                 
+         5930;         2;    54.64;    10.02;Schönhagen (Ostseebad)                  ;Schleswig-Holstein                
+         5941;       685;    47.68;    12.47;Reit im Winkl                           ;Bayern                            
+         6093;        62;    53.21;    10.47;Wendisch Evern                          ;Niedersachsen                     
+         6105;        14;    54.32;     9.81;Ostenfeld (Rendsburg)                   ;Schleswig-Holstein                
+         6109;        50;    53.38;    14.37;Grambow-Schwennenz                      ;Mecklenburg-Vorpommern            
+         6129;       290;    51.06;    14.43;Sohland/Spree                           ;Sachsen                           
+         6157;         8;    53.64;     8.08;Wangerland-Hooksiel                     ;Niedersachsen                     
+         6158;       455;    49.23;    10.61;Weidenbach-Weiherschneidbach            ;Bayern                            
+         6159;         8;    52.95;     7.32;Dörpen                                  ;Niedersachsen                     
+         6163;        26;    54.17;    10.35;Dörnick                                 ;Schleswig-Holstein                
+         6170;        40;    52.02;    14.73;Coschen                                 ;Brandenburg                       
+         6186;       268;    50.20;     7.87;Nastätten                               ;Rheinland-Pfalz                   
+         6197;       258;    51.87;     9.27;Lügde-Paenbruch                         ;Nordrhein-Westfalen               
+         6199;        16;    54.25;    13.04;Steinhagen-Negast                       ;Mecklenburg-Vorpommern            
+         6217;       190;    49.24;     6.94;Saarbrücken-Burbach                     ;Saarland                          
+         6258;       459;    47.68;     9.44;Friedrichshafen-Unterraderach           ;Baden-Württemberg                 
+         6259;       523;    49.02;     9.60;Großerlach-Mannenweiler                 ;Baden-Württemberg                 
+         6260;       385;    49.33;     9.70;Ingelfingen-Stachenhausen               ;Baden-Württemberg                 
+         6262;       413;    48.77;     9.87;Schwäbisch Gmünd-Weiler                 ;Baden-Württemberg                 
+         6263;       445;    47.77;     8.82;Singen                                  ;Baden-Württemberg                 
+         6264;       457;    51.41;     8.65;Brilon-Thülen                           ;Nordrhein-Westfalen               
+         6265;        36;    52.36;    12.39;Wusterwitz                              ;Brandenburg                       
+         6266;       112;    52.03;    10.96;Pabstorf                                ;Sachsen-Anhalt                    
+         6272;       283;    50.84;    10.25;Moorgrund Gräfen-Nitzendorf             ;Thüringen                         
+         6273;        36;    52.51;    11.86;Demker                                  ;Sachsen-Anhalt                    
+         6275;       325;    48.67;     9.46;Notzingen                               ;Baden-Württemberg                 
+         6305;       190;    51.21;    10.50;Mühlhausen/Thüringen-Görmar             ;Thüringen                         
+         6310;         1;    54.11;    13.82;Karlshagen                              ;Mecklenburg-Vorpommern            
+         6312;       362;    49.53;    10.64;Markt Erlbach-Mosbach                   ;Bayern                            
+         6314;       308;    51.05;    13.30;Nossen                                  ;Sachsen                           
+         6336;       285;    50.01;     9.65;Lohr/Main-Halsbach                      ;Bayern                            
+         6337;        59;    51.77;     7.52;Lüdinghausen-Brochtrup                  ;Nordrhein-Westfalen               
+         6344;       168;    50.39;     8.14;Runkel-Ennerich                         ;Hessen                            
+         6346;       530;    48.21;    11.20;Maisach-Galgen                          ;Bayern                            
+         6347;       304;    50.06;    10.30;Schonungen-Mainberg                     ;Bayern                            
+         7075;       425;    48.70;    11.85;Elsendorf-Horneck                       ;Bayern                            
+         7099;       187;    52.01;    10.40;Liebenburg-Othfresen                    ;Niedersachsen                     
+         7105;       721;    47.84;    12.66;Siegsdorf-Höll                          ;Bayern                            
+         7106;       105;    52.07;     8.46;Bielefeld-Deppendorf                    ;Nordrhein-Westfalen               
+         7187;       193;    49.76;     9.41;Freudenberg/Main-Boxtal                 ;Baden-Württemberg                 
+         7298;         5;    54.53;     9.04;Hattstedt                               ;Schleswig-Holstein                
+         7319;       434;    48.74;    10.74;Donauwörth-Osterweiler                  ;Bayern                            
+         7321;       160;    51.15;    11.33;Olbersleben                             ;Thüringen                         
+         7329;       465;    50.55;    12.29;Treuen                                  ;Sachsen                           
+         7330;       159;    51.46;     7.98;Arnsberg-Neheim                         ;Nordrhein-Westfalen               
+         7331;       468;    48.61;    10.27;Hermaringen-Allewind                    ;Baden-Württemberg                 
+         7340;        84;    50.37;     7.58;Koblenz (Falckensteinkaserne)           ;Rheinland-Pfalz                   
+         7341;       119;    50.09;     8.79;Offenbach-Wetterpark                    ;Hessen                            
+         7343;       688;    50.62;    13.48;Deutschneudorf-Brüderwiese              ;Sachsen                           
+         7350;       588;    49.11;    12.82;Prackenbach-Neuhäusl                    ;Bayern                            
+         7351;       115;    53.32;    13.42;Feldberg/Mecklenburg                    ;Mecklenburg-Vorpommern            
+         7364;        74;    51.68;    12.30;Jeßnitz                                 ;Sachsen-Anhalt                    
+         7367;       144;    51.96;     9.81;Alfeld                                  ;Niedersachsen                     
+         7368;       312;    51.00;    10.36;Eisenach                                ;Thüringen                         
+         7369;       475;    49.16;    10.37;Feuchtwangen-Heilbronn                  ;Bayern                            
+         7370;       499;    49.39;    12.68;Waldmünchen                             ;Bayern                            
+         7373;         3;    53.60;     6.70;Borkum-Flugplatz                        ;Niedersachsen                     
+         7374;        46;    52.08;     6.94;Ahaus                                   ;Nordrhein-Westfalen               
+         7389;        82;    52.75;    13.84;Heckelberg                              ;Brandenburg                       
+         7393;       116;    51.45;    14.25;Hoyerswerda                             ;Sachsen                           
+         7394;       622;    50.03;    11.97;Wunsiedel-Schönbrunn                    ;Bayern                            
+         7395;       350;    48.66;    12.54;Gottfrieding                            ;Bayern                            
+         7396;       743;    50.51;     9.22;Hoherodskopf/Vogelsberg                 ;Hessen                            
+         7403;       672;    47.80;    10.03;Leutkirch-Herlazhofen                   ;Baden-Württemberg                 
+         7410;       350;    50.75;     9.02;Neu-Ulrichstein                         ;Hessen                            
+         7412;       340;    50.01;     9.42;Neuhütten/Spessart                      ;Bayern                            
+         7419;       390;    50.66;    12.08;Langenwetzendorf-Göttendorf             ;Thüringen                         
+         7420;       246;    51.10;    11.71;Naumburg/Saale-Kreipitzsch              ;Sachsen-Anhalt                    
+         7424;       458;    47.77;    12.91;Piding                                  ;Bayern                            
+         7427;        17;    54.02;     9.93;Padenstedt (Pony-Park)                  ;Schleswig-Holstein                
+         7428;       397;    50.42;    10.82;Veilsdorf                               ;Thüringen                         
+         7431;       604;    48.01;    11.55;Oberhaching-Laufzorn                    ;Bayern                            
+         7432;        72;    52.64;    10.66;Wittingen-Vorhop                        ;Niedersachsen                     
+        13670;        25;    51.51;     6.70;Duisburg-Baerl                          ;Nordrhein-Westfalen               
+        13674;       237;    49.29;     8.91;Waibstadt                               ;Baden-Württemberg                 
+        13675;        77;    52.08;     9.41;Hameln-Hastenbeck                       ;Niedersachsen                     
+        13696;        68;    51.60;     7.41;Waltrop-Abdinghof                       ;Nordrhein-Westfalen               
+        13700;       205;    51.33;     7.34;Gevelsberg-Oberbröking                  ;Nordrhein-Westfalen               
+        13710;       490;    48.57;    12.26;Landshut-Reithof                        ;Bayern                            
+        13711;       280;    50.68;    11.52;Krölpa-Rockendorf                       ;Thüringen                         
+        13713;       380;    51.09;     7.63;Meinerzhagen-Redlendorf                 ;Nordrhein-Westfalen               
+        13777;       110;    52.25;    10.96;Helmstedt-Emmerstedt                    ;Niedersachsen                     
+        13965;       619;    48.26;     8.81;Balingen-Bronnhaupten                   ;Baden-Württemberg                 
+        15000;       231;    50.80;     6.02;Aachen-Orsbach                          ;Nordrhein-Westfalen               
+        15207;       317;    51.28;     9.36;Schauenburg-Elgershausen                ;Hessen                            
+        15444;       593;    48.44;     9.92;Ulm-Mähringen                           ;Baden-Württemberg                 
