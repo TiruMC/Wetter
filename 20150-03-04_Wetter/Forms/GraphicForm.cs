@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ZedGraph;
 
-namespace _20150_03_04_Wetter
+namespace Weather
 {
     public partial class GraphicForm : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _20150_03_04_Wetter
+namespace Weather
 {
     class CStationen
     {

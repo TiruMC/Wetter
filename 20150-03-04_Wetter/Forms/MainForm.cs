@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _20150_03_04_Wetter
+namespace Weather
 {
 
     public partial class MainForm : Form

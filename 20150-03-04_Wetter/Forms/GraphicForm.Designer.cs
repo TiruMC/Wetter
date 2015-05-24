@@ -1,4 +1,4 @@
-﻿namespace _20150_03_04_Wetter
+﻿namespace Weather
 {
     partial class GraphicForm
     {
