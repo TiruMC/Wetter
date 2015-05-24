@@ -7,8 +7,8 @@
     <ProjectGuid>{E890CEBB-34A6-4BF8-A523-F0A5EC796BCE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_20150_03_04_Wetter</RootNamespace>
-    <AssemblyName>20150-03-04_Wetter</AssemblyName>
+    <RootNamespace>Weather</RootNamespace>
+    <AssemblyName>Weather</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sun.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,25 +56,25 @@
   <ItemGroup>
     <Compile Include="CStationen.cs" />
     <Compile Include="CWetterDatum.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmTemperatur.cs">
+    <Compile Include="Forms\GraphicForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmTemperatur.Designer.cs">
-      <DependentUpon>frmTemperatur.cs</DependentUpon>
+    <Compile Include="Forms\GraphicForm.Designer.cs">
+      <DependentUpon>GraphicForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmTemperatur.resx">
-      <DependentUpon>frmTemperatur.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\GraphicForm.resx">
+      <DependentUpon>GraphicForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -81,6 +84,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -94,6 +98,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sun.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

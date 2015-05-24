@@ -1,6 +1,6 @@
 ﻿namespace _20150_03_04_Wetter
 {
-    partial class frmTemperatur
+    partial class GraphicForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,26 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GraphicForm));
             this.zgTemperatur = new ZedGraph.ZedGraphControl();
             this.SuspendLayout();
             // 
             // zgTemperatur
             // 
             this.zgTemperatur.IsShowPointValues = false;
-            this.zgTemperatur.Location = new System.Drawing.Point(12, 12);
+            this.zgTemperatur.Location = new System.Drawing.Point(9, 10);
+            this.zgTemperatur.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.zgTemperatur.Name = "zgTemperatur";
             this.zgTemperatur.PointValueFormat = "G";
-            this.zgTemperatur.Size = new System.Drawing.Size(1059, 482);
+            this.zgTemperatur.Size = new System.Drawing.Size(794, 392);
             this.zgTemperatur.TabIndex = 0;
             // 
-            // frmTemperatur
+            // GraphicForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1083, 506);
+            this.ClientSize = new System.Drawing.Size(812, 411);
             this.Controls.Add(this.zgTemperatur);
-            this.Name = "frmTemperatur";
-            this.Text = "Temperatur";
+            this.DoubleBuffered = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.MaximizeBox = false;
+            this.Name = "GraphicForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Weather";
             this.ResumeLayout(false);
 
         }
